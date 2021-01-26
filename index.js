@@ -3,3 +3,4 @@ function celsiusFarenheit(celsius) {
 }
 
 console.log(celsiusFarenheit(30));
+console.log(celsiusFarenheit(40));
